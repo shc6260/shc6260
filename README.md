@@ -11,7 +11,6 @@
 </p>
 
 <p>
-<a href="https://app.notion.com/p/3db8fd347f7f81f7a13eccff95776acb?pvs=204"><img src="https://img.shields.io/badge/Notion-메인-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion 메인"></a>
 <a href="https://app.notion.com/p/3db8fd347f7f81c3867ae82bfad8f2bb?pvs=204"><img src="https://img.shields.io/badge/Notion-개발·프로젝트_노트-4285F4?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="개발·프로젝트 노트"></a>
 <a href="https://app.notion.com/p/2938fd347f7f8014aa1be2f7dcc1f5df?pvs=204"><img src="https://img.shields.io/badge/Notion-포트폴리오-512BD4?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="포트폴리오"></a>
 </p>
