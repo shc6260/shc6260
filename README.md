@@ -53,15 +53,14 @@
 
 <br>
 
-<h2>🖥 Windows · C# / WPF</h2>
+<h2>🖥 Windows · 데스크톱</h2>
 
 <table>
 <tr>
 <td width="100%" valign="top">
-<h3><a href="https://github.com/shc6260/GroupCalendarClient">Group Calendar</a></h3>
+<h3><a href="https://github.com/shc6260/GroupCalendarClient">Group Calendar · Client</a></h3>
 <hr>
-<p>일기와 일정 관리를 위한 그룹 캘린더 프로젝트. WPF 클라이언트와 Spring Boot 서버 저장소를 함께 구성합니다.</p>
-<h4>🖥 클라이언트</h4>
+<p>일기와 일정 관리를 위한 C# / WPF 그룹 캘린더 클라이언트.</p>
 <p>CommunityToolkit.Mvvm 기반 MVVM 구조와 MSSQL·Dapper를 사용하는 데스크톱 클라이언트.</p>
 <p>🔗 <a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient</a></p>
 <p><img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
@@ -69,19 +68,7 @@
 <img src="https://img.shields.io/badge/MVVM-4285F4?style=flat-square" alt="MVVM">
 <img src="https://img.shields.io/badge/MSSQL-4285F4?style=flat-square" alt="MSSQL">
 <img src="https://img.shields.io/badge/Dapper-4285F4?style=flat-square" alt="Dapper"></p>
-<h4>🌐 서버</h4>
-<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a> · 웹 화면</p>
-<p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
-<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring_MVC-4285F4?style=flat-square" alt="Spring MVC">
-<img src="https://img.shields.io/badge/Thymeleaf-4285F4?style=flat-square" alt="Thymeleaf">
-<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
-<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a> · API 서버</p>
-<p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
-<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring_Data_JPA-4285F4?style=flat-square" alt="Spring Data JPA">
-<img src="https://img.shields.io/badge/H2-4285F4?style=flat-square" alt="H2">
-<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
+<p>관련 서버: <a href="https://github.com/shc6260/GroupCalendarWebServer">Web</a> · <a href="https://github.com/shc6260/GroupCalendarWas">API</a></p>
 </td>
 </tr>
 </table>
@@ -117,6 +104,33 @@
 <img src="https://img.shields.io/badge/WPF-4285F4?style=flat-square" alt="WPF">
 <img src="https://img.shields.io/badge/Media_Player-4285F4?style=flat-square" alt="Media Player">
 </p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>🌐 서버 · Spring</h2>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+<h3>Group Calendar · Server</h3>
+<hr>
+<p>Group Calendar 프로젝트의 Spring Boot 웹 화면과 API 서버.</p>
+<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a> · 웹 화면</p>
+<p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
+<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring_MVC-4285F4?style=flat-square" alt="Spring MVC">
+<img src="https://img.shields.io/badge/Thymeleaf-4285F4?style=flat-square" alt="Thymeleaf">
+<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
+<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a> · API 서버</p>
+<p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
+<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring_Data_JPA-4285F4?style=flat-square" alt="Spring Data JPA">
+<img src="https://img.shields.io/badge/H2-4285F4?style=flat-square" alt="H2">
+<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
+<p>관련 클라이언트: <a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient · WPF</a></p>
 </td>
 </tr>
 </table>
