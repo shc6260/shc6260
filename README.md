@@ -51,11 +51,14 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top"><h3><a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient</a></h3>
+    <td width="100%" valign="top"><h3><a href="https://github.com/shc6260/GroupCalendarClient">Group Calendar</a></h3>
       <hr>
       <p>일기와 일정 관리를 위한 C# / WPF 그룹 캘린더 클라이언트.</p>
       <p>CommunityToolkit.Mvvm을 활용한 MVVM 구조와 MSSQL·Dapper 기반 데이터 접근을 적용합니다.</p>
-      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarClient">저장소 보기 →</a></p>
+      <p><b>관련 저장소</b></p>
+      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarClient">Client · WPF</a><br>
+      🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a><br>
+      🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
         <img src="https://img.shields.io/badge/WPF-4285F4?style=flat-square" alt="WPF">
@@ -66,12 +69,32 @@
   </tr>
 </table>
 
-<br>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/shc6260/HospitalManagementToyProject">HospitalManagementToyProject</a></h3>
+      <hr>
+      <p>🔗 <a href="https://github.com/shc6260/HospitalManagementToyProject">저장소 보기 →</a></p>
+    </td>
+  </tr>
+</table>
 
-<h2>🌐 서버</h2>
-
-<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a></p>
-<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/shc6260/end_project">OneHandPlayer · end_project</a></h3>
+      <hr>
+      <p>마우스 중심의 조작과 영상 관리를 위한 C# / WPF 미디어 플레이어 졸업작품.</p>
+      <p>영상 재생, 폴더별 영상 목록, 검색·평점·정렬, 구간 북마크와 썸네일 기능을 제공합니다.</p>
+      <p>🔗 <a href="https://github.com/shc6260/end_project">저장소 보기 →</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
+        <img src="https://img.shields.io/badge/WPF-4285F4?style=flat-square" alt="WPF">
+        <img src="https://img.shields.io/badge/Media_Player-4285F4?style=flat-square" alt="Media Player">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
