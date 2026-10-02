@@ -51,21 +51,33 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top"><h3><a href="https://github.com/shc6260/GroupCalendarClient">Group Calendar</a></h3>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/shc6260/GroupCalendarClient">Group Calendar</a></h3>
       <hr>
-      <p>일기와 일정 관리를 위한 C# / WPF 그룹 캘린더 클라이언트.</p>
-      <p>CommunityToolkit.Mvvm을 활용한 MVVM 구조와 MSSQL·Dapper 기반 데이터 접근을 적용합니다.</p>
-      <p><b>🖥 클라이언트</b><br>
-      🔗 <a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient · WPF</a></p>
-      <p><b>🌐 서버</b><br>
-      🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a><br>
-      🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
-        <img src="https://img.shields.io/badge/WPF-4285F4?style=flat-square" alt="WPF">
-        <img src="https://img.shields.io/badge/MVVM-4285F4?style=flat-square" alt="MVVM">
-        <img src="https://img.shields.io/badge/Dapper-4285F4?style=flat-square" alt="Dapper">
-      </p>
+      <p>일기와 일정 관리를 위한 그룹 캘린더 프로젝트. WPF 클라이언트와 Spring Boot 서버 저장소를 함께 구성합니다.</p>
+
+      <h4>🖥 클라이언트</h4>
+      <p>CommunityToolkit.Mvvm 기반 MVVM 구조와 MSSQL·Dapper를 사용하는 데스크톱 클라이언트.</p>
+      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient</a></p>
+      <p><img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
+<img src="https://img.shields.io/badge/WPF-4285F4?style=flat-square" alt="WPF">
+<img src="https://img.shields.io/badge/MVVM-4285F4?style=flat-square" alt="MVVM">
+<img src="https://img.shields.io/badge/MSSQL-4285F4?style=flat-square" alt="MSSQL">
+<img src="https://img.shields.io/badge/Dapper-4285F4?style=flat-square" alt="Dapper"></p>
+
+      <h4>🌐 서버</h4>
+      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a> · 웹 화면</p>
+      <p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
+<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring_MVC-4285F4?style=flat-square" alt="Spring MVC">
+<img src="https://img.shields.io/badge/Thymeleaf-4285F4?style=flat-square" alt="Thymeleaf">
+<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
+      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a> · API 서버</p>
+      <p><img src="https://img.shields.io/badge/Java_21-4285F4?style=flat-square" alt="Java 21">
+<img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring_Data_JPA-4285F4?style=flat-square" alt="Spring Data JPA">
+<img src="https://img.shields.io/badge/H2-4285F4?style=flat-square" alt="H2">
+<img src="https://img.shields.io/badge/Gradle-4285F4?style=flat-square" alt="Gradle"></p>
     </td>
   </tr>
 </table>
@@ -75,7 +87,15 @@
     <td width="100%" valign="top">
       <h3><a href="https://github.com/shc6260/HospitalManagementToyProject">HospitalManagementToyProject</a></h3>
       <hr>
+      <p>환자·접수·검사 업무를 다루는 C# / WinForms 병원 관리 토이 프로젝트.</p>
+      <p>환자 검색·등록, 접수, 검사·검사 항목, 검사자·장비 관리 화면을 구성하고, MVP 구조와 Dapper 기반 프로시저 호출을 적용합니다.</p>
       <p>🔗 <a href="https://github.com/shc6260/HospitalManagementToyProject">저장소 보기 →</a></p>
+      <p><img src="https://img.shields.io/badge/C%23-4285F4?style=flat-square" alt="C#">
+<img src="https://img.shields.io/badge/WinForms-4285F4?style=flat-square" alt="WinForms">
+<img src="https://img.shields.io/badge/DevExpress-4285F4?style=flat-square" alt="DevExpress">
+<img src="https://img.shields.io/badge/.NET_Framework_4.7.2-4285F4?style=flat-square" alt=".NET Framework 4.7.2">
+<img src="https://img.shields.io/badge/MVP-4285F4?style=flat-square" alt="MVP">
+<img src="https://img.shields.io/badge/Dapper-4285F4?style=flat-square" alt="Dapper"></p>
     </td>
   </tr>
 </table>
