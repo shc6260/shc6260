@@ -55,8 +55,9 @@
       <hr>
       <p>일기와 일정 관리를 위한 C# / WPF 그룹 캘린더 클라이언트.</p>
       <p>CommunityToolkit.Mvvm을 활용한 MVVM 구조와 MSSQL·Dapper 기반 데이터 접근을 적용합니다.</p>
-      <p><b>관련 저장소</b></p>
-      <p>🔗 <a href="https://github.com/shc6260/GroupCalendarClient">Client · WPF</a><br>
+      <p><b>🖥 클라이언트</b><br>
+      🔗 <a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient · WPF</a></p>
+      <p><b>🌐 서버</b><br>
       🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a><br>
       🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></p>
       <p>
