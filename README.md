@@ -27,13 +27,11 @@
 
 <br>
 
-<h2>🚀 Projects</h2>
+<h2>🤖 AI · 자동화</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p><b>🤖 AI · 자동화</b></p>
-      <h3><a href="https://github.com/shc6260/CurrentPageLens">CurrentPageLens</a></h3>
+    <td width="100%" valign="top"><h3><a href="https://github.com/shc6260/CurrentPageLens">CurrentPageLens</a></h3>
       <hr>
       <p>현재 보고 있는 웹페이지를 로컬 AI로 분석하는 Chrome 확장 프로그램.</p>
       <p>텍스트와 이미지를 수집하고, 프리셋과 질문에 맞춰 분석한 결과를 사이드 패널에 표시합니다.</p>
@@ -44,9 +42,16 @@
         <img src="https://img.shields.io/badge/Side_Panel-4285F4?style=flat-square" alt="Side Panel">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <p><b>🖥 C# · 데스크톱</b></p>
-      <h3><a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient</a></h3>
+  </tr>
+</table>
+
+<br>
+
+<h2>🖥 Windows · C# / WPF</h2>
+
+<table>
+  <tr>
+    <td width="100%" valign="top"><h3><a href="https://github.com/shc6260/GroupCalendarClient">GroupCalendarClient</a></h3>
       <hr>
       <p>일기와 일정 관리를 위한 C# / WPF 그룹 캘린더 클라이언트.</p>
       <p>CommunityToolkit.Mvvm을 활용한 MVVM 구조와 MSSQL·Dapper 기반 데이터 접근을 적용합니다.</p>
@@ -61,17 +66,15 @@
   </tr>
 </table>
 
-<details>
-  <summary><b>📂 더 많은 저장소</b></summary>
+<br>
 
-  <h4>🌐 서버</h4>
-  <ul>
-    <li><a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a></li>
-    <li><a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></li>
-  </ul>
+<h2>🌐 서버</h2>
 
-  <h4>📚 학습 · 실험</h4>
-  <ul>
-    <li><a href="https://github.com/shc6260/Study">Study</a></li>
-  </ul>
-</details>
+<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWebServer">GroupCalendarWebServer</a></p>
+<p>🔗 <a href="https://github.com/shc6260/GroupCalendarWas">GroupCalendarWas</a></p>
+
+<br>
+
+<h2>📚 학습 · 실험</h2>
+
+<p>🔗 <a href="https://github.com/shc6260/Study">Study</a></p>
